@@ -125,3 +125,8 @@
 0.0.0.0 udcm.yahoo.com
 0.0.0.0 log.fc.yahoo.com
 0.0.0.0 adtech.yahooinc.com
+
+0.0.0.0 data.mistat.india.xiaomi.com
+0.0.0.0 data.mistat.rus.xiaomi.com
+0.0.0.0 api-adservices.apple.com
+0.0.0.0 books-analytics-events.apple.com
